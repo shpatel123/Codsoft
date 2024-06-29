@@ -1,0 +1,1 @@
+A simple calculator project built using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations and has a clear button to reset it. It's beginner-friendly, and contributions are welcome
